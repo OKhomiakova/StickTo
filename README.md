@@ -1,2 +1,2 @@
 # StickTo
-This is a best habit tracking app on the market (WIP).
+This is the best habit tracking app on the market (WIP).
